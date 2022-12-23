@@ -34,6 +34,7 @@ return packer.startup(function(use)
 	use 'vim-scripts/ReplaceWithRegister'
 	use 'numToStr/Comment.nvim'
 	use 'nvim-tree/nvim-tree.lua'
+	use 'kyazdani42/nvim-web-devicons'
 
   if packer_bootstrap then
     require("packer").sync()

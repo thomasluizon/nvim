@@ -6,6 +6,7 @@ local keymap = vim.keymap
 keymap.set("n", "<leader>nh", ":nohl<CR>") -- clear search
 
 keymap.set("n", "x", '"_x') -- delete letter without copying
+keymap.set("v", "x", '"_x') -- delete letter without copying
 keymap.set("n", "dd", '"_dd')
 keymap.set("n", "<leader>s", [[:%s/\<<C-r><C-w>\>/<C-r><C-w>/gI<Left><Left><Left>]])
 

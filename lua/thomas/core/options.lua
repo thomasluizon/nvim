@@ -8,6 +8,7 @@ opt.number = true
 opt.tabstop = 2
 opt.shiftwidth = 2
 opt.autoindent = true
+opt.wrap = false
 
 -- search settings
 opt.ignorecase = true

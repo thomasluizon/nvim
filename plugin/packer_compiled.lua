@@ -231,6 +231,11 @@ _G.packer_plugins = {
     path = "C:\\Users\\thoma\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\vim-maximizer",
     url = "https://github.com/szw/vim-maximizer"
   },
+  ["vim-multiple-cursors"] = {
+    loaded = true,
+    path = "C:\\Users\\thoma\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\vim-multiple-cursors",
+    url = "https://github.com/terryma/vim-multiple-cursors"
+  },
   ["vim-nightfly-guicolors"] = {
     loaded = true,
     path = "C:\\Users\\thoma\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\vim-nightfly-guicolors",

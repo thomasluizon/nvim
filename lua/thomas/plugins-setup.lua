@@ -38,6 +38,7 @@ return packer.startup(function(use)
 	-- essential plugins
 	use("tpope/vim-surround") -- add, delete, change surroundings (it's awesome)
 	use("vim-scripts/ReplaceWithRegister") -- replace with register contents using motion (gr + motion)
+	use("terryma/vim-multiple-cursors") -- multiple cursors
 
 	-- commenting with gc
 	use("numToStr/Comment.nvim")

@@ -36,7 +36,7 @@ keymap.set("n", "<leader>fb", "<cmd>Telescope buffers<cr>") -- list open buffers
 keymap.set("n", "<leader>fh", "<cmd>Telescope help_tags<cr>") -- list available help tags
 
 -- bufferline
-keymap.set("n", "<leader>bd", ":bdelete<CR>")
-keymap.set("n", "<leader>bl", ":BufferLineCycleNext<CR>")
-keymap.set("n", "<leader>bh", ":BufferLineCyclePrev<CR>")
-keymap.set("n", "<leader>bb", ":BufferLineGoToBuffer1<CR>")
+keymap.set("n", "<leader>d", ":bdelete<CR>")
+keymap.set("n", "<leader>l", ":BufferLineCycleNext<CR>")
+keymap.set("n", "<leader>h", ":BufferLineCyclePrev<CR>")
+keymap.set("n", "<leader>b", ":BufferLineGoToBuffer1<CR>")

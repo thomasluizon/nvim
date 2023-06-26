@@ -1,3 +1,5 @@
-## my nvim configuration files
+# My nvim configuration files
 
-clone to %localappdata%
+![GitHub](https://img.shields.io/github/license/thomasluizon/nvim)
+
+Clone to %localappdata%
